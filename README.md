@@ -9,5 +9,5 @@
         - Right-click the installation script and go to "Properties". At the bottom next to the "Security" label, check the "Unblock" box.
         - Also go to Settings and click on "System" (on the left navigation bar). Under "System" go to "For developers", click on "PowerShell", and turn on the setting starting with "Change execution policy..."
 5. Finally, right-click the installation script and run it!
-    a. If you are on Windows, select "Run with Powershell"
+    a. If you are on Windows, select "Run with Powershell".
 6. All done! If the Enhancify tab does not appear on the top-left navigation bar, close the Spotify desktop app and restart it.
