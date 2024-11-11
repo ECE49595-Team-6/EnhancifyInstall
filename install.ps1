@@ -188,7 +188,8 @@ if (Test-Path $path) {
   Remove-Item $path -Force -Recurse
 }
 
-Move-Item * $path
+New-Item -Path $path -ItemType Directory
+Move-Item -Path * -Destination $path
 
 spicetify config custom_apps Enhancify
 spicetify apply

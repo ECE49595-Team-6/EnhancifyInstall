@@ -156,6 +156,7 @@ if [ -d "$FULL_PATH"]; then
 fi
 
 # Install extension files
+mkdir $FULL_PATH
 mv * $FULL_PATH
 
 # Integrate the extension with the desktop app
