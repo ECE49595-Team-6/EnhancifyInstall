@@ -188,7 +188,7 @@ if (Test-Path $path) {
   Remove-Item $path -Force -Recurse
 }
 
-git clone https://github.com/ECE49595-Team-6/EnhancifyInstall.git $path
+Move-Item * $path
 
 spicetify config custom_apps Enhancify
 spicetify apply
