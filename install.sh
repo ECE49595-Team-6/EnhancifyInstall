@@ -156,7 +156,8 @@ if [ -d "$FULL_PATH"]; then
 fi
 
 # Install extension files
-git clone https://github.com/ECE49595-Team-6/EnhancifyInstall.git $FULL_PATH
+mkdir $FULL_PATH
+mv * $FULL_PATH
 
 # Integrate the extension with the desktop app
 spicetify config custom_apps Enhancify
