@@ -29,11 +29,15 @@ When you click on Enhancify in the top-left navigation bar of Spotify, the page 
 - Click on the settings icon to change what song metrics appear on the page or change the target of your recommendations between songs/artists.
 - Click on any set of song metrics and then click on the CD icon next the settings icon to see recommendations based on those song metric values.
 
+For more information & steps please visit -> [Now Playing Documentation](https://github.com/ECE49595-Team-6/EnhancifyInstall/wiki/Now-Playing)
+
 ## Playlist Manager
 ![playlist manager](https://github.com/user-attachments/assets/5d878ac5-63ca-4586-b6f9-1451cedfacc4)
 When you click on any playlist, you can see the "Save Preset", "Load Preset", and "Custom Order" options. If the playlist is owned/created by you, you can:
 - Sort the playlist by any song metric
 - Save/Load any preset ordering of the playlist with any name you want
+
+For more information & steps please visit -> [Playlist Manager Documentation](https://github.com/ECE49595-Team-6/EnhancifyInstall/wiki/Playlist-Manager)
 
 # Contributors
 * Anish Sudini
