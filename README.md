@@ -1,6 +1,8 @@
 # What is Enhancify?
 With Enhancify, Spotify users can transform their listening experience. With the help of [Spicetify](https://spicetify.app), a platform for customizing the Spotify client, Ehancify offers users an exciting Now Playing page and the ability to customize playlists. In the Now Playing page, users can view musical characteristics of the currently playing song, get song recommendations, and explore their listening history. The Playlist Manager feature allows users to change the order of tracks in user owned playlists based on song metrics and save/load a preset ordering with any name.
 
+Visit our Wiki for more Comprehensive Documentation: [Enhancify Wiki](https://github.com/ECE49595-Team-6/EnhancifyInstall/wiki)
+
 # Enhancify Installation
 
 1. Make sure you have downloaded the Spotify desktop app directly from the Spotify website.
