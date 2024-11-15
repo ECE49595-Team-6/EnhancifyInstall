@@ -34,3 +34,8 @@ When you click on Enhancify in the top-left navigation bar of Spotify, the page 
 When you click on any playlist, you can see the "Save Preset", "Load Preset", and "Custom Order" options. If the playlist is owned/created by you, you can:
 - Sort the playlist by any song metric
 - Save/Load any preset ordering of the playlist with any name you want
+
+# Contributors
+* Anish Sudini
+* Pari Mohite
+* Rajit Khatri
