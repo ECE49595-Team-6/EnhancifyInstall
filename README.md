@@ -45,6 +45,6 @@ When you click on any playlist, you can see the "Save Preset", "Load Preset", an
 For more information & steps please visit -> [Playlist Manager Documentation](https://github.com/ECE49595-Team-6/EnhancifyInstall/wiki/Playlist-Manager)
 
 # Contributors
-* Anish Sudini
 * Pari Mohite
 * Rajit Khatri
+* Anish Sudini
