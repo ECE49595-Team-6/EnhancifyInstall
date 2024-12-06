@@ -2327,7 +2327,7 @@ var Enhancify = (() => {
   // src/app.tsx
   var import_react9 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633d1d0\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4a900\app.module.css
   var app_module_default = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/NowPlaying.tsx
@@ -2358,7 +2358,7 @@ var Enhancify = (() => {
   }
   var nowPlayingService_default = getAudioFeatures;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633e6c2\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be23\app.module.css
   var app_module_default2 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/DynamicRecommendations.tsx
@@ -2449,7 +2449,7 @@ var Enhancify = (() => {
   // src/services/enhancifyInternalService.tsx
   var import_react2 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633e6f5\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be35\app.module.css
   var app_module_default3 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/RecommendedTrack.tsx
@@ -2661,8 +2661,9 @@ var Enhancify = (() => {
     }
     render() {
       Spicetify.Player.addEventListener("onprogress", this.addToQueue);
-      return /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement("div", {
-        className: app_module_default2.recommendationsSection
+      return /* @__PURE__ */ import_react3.default.createElement("div", {
+        className: app_module_default2.recommendationsSection,
+        style: { width: "100%", paddingRight: "35px" }
       }, /* @__PURE__ */ import_react3.default.createElement("div", {
         className: app_module_default2.recommendationHeader
       }, /* @__PURE__ */ import_react3.default.createElement("div", {
@@ -2674,12 +2675,12 @@ var Enhancify = (() => {
         className: app_module_default2.recommendationTarget
       }, this.props.recTargetProp)), /* @__PURE__ */ import_react3.default.createElement("div", {
         className: app_module_default2.recommendationsBlock
-      }, RecommendationsRender(this.state.recommendations))));
+      }, RecommendationsRender(this.state.recommendations)));
     }
   };
   var DynamicRecommendations_default = DynamicRecommendations;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633e6b1\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be01\app.module.css
   var app_module_default4 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/SongMetric.tsx
@@ -2842,7 +2843,7 @@ var Enhancify = (() => {
   // src/components/RecommendationsModal.tsx
   var import_react6 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633e6e4\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be24\app.module.css
   var app_module_default5 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/RecommendationsModal.tsx
@@ -2886,7 +2887,7 @@ var Enhancify = (() => {
         onClick: () => this.props.setModalIsOpen(false)
       })), /* @__PURE__ */ import_react6.default.createElement("div", {
         className: app_module_default5.settingContainer,
-        style: { paddingLeft: "0", marginBottom: "30px" }
+        style: { paddingLeft: "0", marginBottom: "20px" }
       }, Object.keys(this.props.selectedMetrics).map((metric_name) => /* @__PURE__ */ import_react6.default.createElement("div", {
         className: app_module_default5.recommendationTarget,
         style: {
@@ -2899,7 +2900,7 @@ var Enhancify = (() => {
   };
   var RecommendationsModal_default = RecommendationsModal;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-19620-c99MMHGd7kYZ\1931c633e6d3\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be02\app.module.css
   var app_module_default6 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/SettingsModal.tsx
@@ -2947,7 +2948,13 @@ var Enhancify = (() => {
           },
           onClick: () => this.props.toggleMetric(metric)
         }, metric);
-      })));
+      })), /* @__PURE__ */ import_react7.default.createElement("div", {
+        className: app_module_default6.settingContainer,
+        style: { position: "absolute", bottom: "0", paddingLeft: "0", marginLeft: "-13px", marginBottom: "5px" }
+      }, /* @__PURE__ */ import_react7.default.createElement("span", {
+        className: app_module_default6.settingLabel,
+        style: { fontSize: "smaller" }
+      }, "Enhancify Version 0.1.0")));
     }
   };
   var SettingsModal_default = SettingsModal;
@@ -3047,11 +3054,12 @@ var Enhancify = (() => {
           backgroundColor: "rgba(0, 0, 0, 0.70)"
         },
         content: {
-          position: "relative",
-          top: "60px",
-          left: "27.5%",
-          width: "550px",
-          height: "610px"
+          position: "absolute",
+          top: "40%",
+          left: "47%",
+          transform: "translate(-50%, -50%)",
+          width: "33%",
+          height: "65%"
         }
       };
       this.recommendationsModalStyles = {
@@ -3059,10 +3067,11 @@ var Enhancify = (() => {
           backgroundColor: "rgba(0, 0, 0, 0.70)"
         },
         content: {
-          position: "relative",
-          top: "55px",
-          left: "21.5%",
-          width: "800px",
+          position: "absolute",
+          top: "43%",
+          left: "47%",
+          transform: "translate(-50%, -50%)",
+          width: "50%",
           height: "600px"
         }
       };
@@ -3123,11 +3132,9 @@ var Enhancify = (() => {
           width: "250px",
           textAlign: "center"
         }
-      }, Spicetify.Player.data.item.album.name)) : /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null)), /* @__PURE__ */ import_react8.default.createElement("div", {
-        style: { display: "flex", flexDirection: "row" }
-      }, /* @__PURE__ */ import_react8.default.createElement(DynamicRecommendations_default, {
+      }, Spicetify.Player.data.item.album.name)) : /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null)), /* @__PURE__ */ import_react8.default.createElement(DynamicRecommendations_default, {
         recTargetProp: this.state.recTarget
-      }))), /* @__PURE__ */ import_react8.default.createElement("div", {
+      })), /* @__PURE__ */ import_react8.default.createElement("div", {
         className: app_module_default.sectionHeaderContainer
       }, /* @__PURE__ */ import_react8.default.createElement("div", {
         className: app_module_default.recommendationsLabel,
