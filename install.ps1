@@ -195,7 +195,7 @@ if (Test-Path $zipPath) {
   Remove-Item $zipPath -Force -Recurse
 }
 
-$latestReleaseUrl = (Invoke-RestMethod -Uri "https://api.github.com/repos/ECE49595-Team-6/EnhancifyInstall/releases/latest").assets.browser_download_url
+$latestReleaseUrl = (Invoke-RestMethod -Uri "https://api.github.com/repos/ECE49595-Team-6/EnhancifyInstall/releases/latest").assets.browser_download_url[0]
 Invoke-WebRequest -Uri $latestReleaseUrl -OutFile $zipPath
 
 Expand-Archive -Path $zipPath -DestinationPath ".\EnhancifyInstall" -Force
