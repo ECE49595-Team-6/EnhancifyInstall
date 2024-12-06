@@ -2325,13 +2325,13 @@ var Enhancify = (() => {
   });
 
   // src/app.tsx
-  var import_react9 = __toESM(require_react());
+  var import_react10 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4a900\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe03890\app.module.css
   var app_module_default = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/NowPlaying.tsx
-  var import_react8 = __toESM(require_react());
+  var import_react9 = __toESM(require_react());
 
   // src/services/common.tsx
   function getID(uri) {
@@ -2358,7 +2358,7 @@ var Enhancify = (() => {
   }
   var nowPlayingService_default = getAudioFeatures;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be23\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e43\app.module.css
   var app_module_default2 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/DynamicRecommendations.tsx
@@ -2449,7 +2449,7 @@ var Enhancify = (() => {
   // src/services/enhancifyInternalService.tsx
   var import_react2 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be35\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e76\app.module.css
   var app_module_default3 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/RecommendedTrack.tsx
@@ -2680,7 +2680,7 @@ var Enhancify = (() => {
   };
   var DynamicRecommendations_default = DynamicRecommendations;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be01\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e42\app.module.css
   var app_module_default4 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/SongMetric.tsx
@@ -2843,7 +2843,7 @@ var Enhancify = (() => {
   // src/components/RecommendationsModal.tsx
   var import_react6 = __toESM(require_react());
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be24\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e65\app.module.css
   var app_module_default5 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/RecommendationsModal.tsx
@@ -2900,7 +2900,7 @@ var Enhancify = (() => {
   };
   var RecommendationsModal_default = RecommendationsModal;
 
-  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-5460-jJm2Qs8Io6q1\1939dcb4be02\app.module.css
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e54\app.module.css
   var app_module_default6 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
 
   // src/components/SettingsModal.tsx
@@ -2948,21 +2948,60 @@ var Enhancify = (() => {
           },
           onClick: () => this.props.toggleMetric(metric)
         }, metric);
-      })), /* @__PURE__ */ import_react7.default.createElement("div", {
-        className: app_module_default6.settingContainer,
-        style: { position: "absolute", bottom: "0", paddingLeft: "0", marginLeft: "-13px", marginBottom: "5px" }
-      }, /* @__PURE__ */ import_react7.default.createElement("span", {
-        className: app_module_default6.settingLabel,
-        style: { fontSize: "smaller" }
-      }, "Enhancify Version 0.1.0")));
+      })));
     }
   };
   var SettingsModal_default = SettingsModal;
 
   // src/components/NowPlaying.tsx
   var import_react_modal = __toESM(require_lib());
+
+  // postcss-module:C:\Users\parim\AppData\Local\Temp\tmp-24776-WK7M3eVNRHNg\1939dfe04e31\app.module.css
+  var app_module_default7 = { "text": "app-module__text___q6CF6_Enhancify", "topBar": "app-module__topBar___gbq6k_Enhancify", "nowPlayingSidebar": "app-module__nowPlayingSidebar___F4UGj_Enhancify", "trackInfoPrimary": "app-module__trackInfoPrimary___PLXQO_Enhancify", "trackCover": "app-module__trackCover___UFVka_Enhancify", "statsBlock": "app-module__statsBlock___F0E-V_Enhancify", "statContainer": "app-module__statContainer___aQ1Fr_Enhancify", "statTitle": "app-module__statTitle___HP8oz_Enhancify", "statLabel": "app-module__statLabel___9pxah_Enhancify", "statValue": "app-module__statValue___JfE7d_Enhancify", "graphicContainer": "app-module__graphicContainer___P76QX_Enhancify", "recommendationsSection": "app-module__recommendationsSection___Emxwk_Enhancify", "recommendationsBlock": "app-module__recommendationsBlock___NYV5h_Enhancify", "trackContainer": "app-module__trackContainer___zmxIn_Enhancify", "recommendationsCover": "app-module__recommendationsCover___7Cufk_Enhancify", "trackName": "app-module__trackName___90Kd4_Enhancify", "playIcon": "app-module__playIcon___eaD-6_Enhancify", "changeRecTragetBtn": "app-module__changeRecTragetBtn___cS88j_Enhancify", "trackNameText": "app-module__trackNameText___J3m-Y_Enhancify", "leftSideBar": "app-module__leftSideBar___-boqF_Enhancify", "scrollTitle": "app-module__scrollTitle___vNLvZ_Enhancify", "scrollText": "app-module__scrollText___25P7l_Enhancify", "recommendationsLabel": "app-module__recommendationsLabel___UHF7q_Enhancify", "recommendationHeader": "app-module__recommendationHeader___EK4Rr_Enhancify", "recommendationTarget": "app-module__recommendationTarget___RC552_Enhancify", "recommendationsHeaderSpacer": "app-module__recommendationsHeaderSpacer___M5jYa_Enhancify", "settingContainer": "app-module__settingContainer___7DWOV_Enhancify", "settingLabel": "app-module__settingLabel___jD7Lv_Enhancify", "modal": "app-module__modal___YLXrG_Enhancify", "settingsModalContainer": "app-module__settingsModalContainer___Uryaq_Enhancify", "recommendationsModalContainer": "app-module__recommendationsModalContainer___eL3j6_Enhancify", "modalHeaderContainer": "app-module__modalHeaderContainer___2jP9z_Enhancify", "sectionHeaderContainer": "app-module__sectionHeaderContainer___oa7pd_Enhancify", "settingsIconContainer": "app-module__settingsIconContainer___TDp-k_Enhancify", "metricsRecommendationContainer": "app-module__metricsRecommendationContainer___TXr7b_Enhancify", "run": "app-module__run___9fxLL_Enhancify" };
+
+  // src/components/HelpModal.tsx
+  var import_react8 = __toESM(require_react());
+  var HelpModal = class extends import_react8.default.Component {
+    render() {
+      return /* @__PURE__ */ import_react8.default.createElement("div", {
+        className: app_module_default7.settingsModalContainer
+      }, /* @__PURE__ */ import_react8.default.createElement("div", {
+        className: app_module_default7.modalHeaderContainer
+      }, /* @__PURE__ */ import_react8.default.createElement("div", {
+        className: app_module_default7.recommendationsLabel,
+        style: {
+          marginLeft: "20px",
+          marginBottom: "0px",
+          marginTop: "10px"
+        }
+      }, "Help"), /* @__PURE__ */ import_react8.default.createElement("img", {
+        className: app_module_default7.playIcon,
+        style: { marginLeft: "auto" },
+        src: "https://img.icons8.com/?size=100&id=6483&format=png&color=FFFFFF",
+        onClick: () => this.props.setModalIsOpen(false)
+      })), /* @__PURE__ */ import_react8.default.createElement("div", {
+        className: app_module_default7.settingContainer
+      }, /* @__PURE__ */ import_react8.default.createElement("span", {
+        className: app_module_default7.settingLabel,
+        style: { fontSize: "x-large", paddingBottom: "10px" }
+      }, "Visit the link below for documentation on Enhancify:"), /* @__PURE__ */ import_react8.default.createElement("a", {
+        href: "https://github.com/ECE49595-Team-6/EnhancifyInstall/wiki",
+        className: app_module_default7.settingLabel,
+        style: { fontSize: "large", fontWeight: "bolder" }
+      }, "Enhancify Wiki Link")), /* @__PURE__ */ import_react8.default.createElement("div", {
+        className: app_module_default7.settingContainer,
+        style: { position: "absolute", bottom: "0", paddingLeft: "0", marginLeft: "-13px", marginBottom: "5px" }
+      }, /* @__PURE__ */ import_react8.default.createElement("span", {
+        className: app_module_default7.settingLabel,
+        style: { fontSize: "medium" }
+      }, "Enhancify Version 1.0.0")));
+    }
+  };
+  var HelpModal_default = HelpModal;
+
+  // src/components/NowPlaying.tsx
   var _a2;
-  var NowPlaying = class extends import_react8.default.Component {
+  var NowPlaying = class extends import_react9.default.Component {
     constructor() {
       super(...arguments);
       this.state = {
@@ -2973,6 +3012,7 @@ var Enhancify = (() => {
         metricsToDisplay: Spicetify.LocalStorage.get("metricsToDisplay") != "" ? ((_a2 = Spicetify.LocalStorage.get("metricsToDisplay")) == null ? void 0 : _a2.split(",")) || ["Danceability", "Energy", "Acousticness", "Loudness", "Key", "Tempo"] : [],
         modalIsOpen: false,
         settingsModalIsOpen: false,
+        helpModalIsOpen: false,
         selectedMetrics: JSON.parse(Spicetify.LocalStorage.get("selectedMetrics") || "{}")
       };
       this.componentDidMount = () => {
@@ -3037,6 +3077,11 @@ var Enhancify = (() => {
           settingsModalIsOpen: value
         });
       };
+      this.setHelpModalIsOpen = (value) => {
+        this.setState({
+          helpModalIsOpen: value
+        });
+      };
       this.selectMetric = (metric, value) => {
         let copy = __spreadValues({}, this.state.selectedMetrics);
         if (metric in copy) {
@@ -3078,16 +3123,16 @@ var Enhancify = (() => {
     }
     render() {
       Spicetify.Player.addEventListener("songchange", this.setAudioFeatures);
-      return /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement("div", {
+      return /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null, /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.topBar
-      }, /* @__PURE__ */ import_react8.default.createElement("div", {
+      }, /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.nowPlayingSidebar
-      }, Spicetify.Player.data ? /* @__PURE__ */ import_react8.default.createElement("div", {
+      }, Spicetify.Player.data ? /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.trackInfoPrimary
-      }, Spicetify.Player.data.item.images ? Spicetify.Player.data.item.images.length > 0 ? /* @__PURE__ */ import_react8.default.createElement("img", {
+      }, Spicetify.Player.data.item.images ? Spicetify.Player.data.item.images.length > 0 ? /* @__PURE__ */ import_react9.default.createElement("img", {
         src: Spicetify.Player.data.item.images[0].url,
         className: app_module_default.trackCover
-      }) : /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null) : /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null), /* @__PURE__ */ import_react8.default.createElement("text", {
+      }) : /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null) : /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null), /* @__PURE__ */ import_react9.default.createElement("text", {
         className: app_module_default.text,
         style: {
           marginTop: "5px",
@@ -3111,7 +3156,7 @@ var Enhancify = (() => {
           if (trackAritistsInnnerHTML.length > 0) {
             trackAritistsInnnerHTML = trackAritistsInnnerHTML.substring(0, trackAritistsInnnerHTML.length - 2);
           }
-          return /* @__PURE__ */ import_react8.default.createElement("text", {
+          return /* @__PURE__ */ import_react9.default.createElement("text", {
             className: app_module_default.text,
             style: {
               fontSize: "15px",
@@ -3122,9 +3167,9 @@ var Enhancify = (() => {
             }
           }, trackAritistsInnnerHTML);
         } else {
-          return /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null);
+          return /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null);
         }
-      }(), /* @__PURE__ */ import_react8.default.createElement("text", {
+      }(), /* @__PURE__ */ import_react9.default.createElement("text", {
         className: app_module_default.text,
         style: {
           fontSize: "15px",
@@ -3132,18 +3177,18 @@ var Enhancify = (() => {
           width: "250px",
           textAlign: "center"
         }
-      }, Spicetify.Player.data.item.album.name)) : /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null)), /* @__PURE__ */ import_react8.default.createElement(DynamicRecommendations_default, {
+      }, Spicetify.Player.data.item.album.name)) : /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null)), /* @__PURE__ */ import_react9.default.createElement(DynamicRecommendations_default, {
         recTargetProp: this.state.recTarget
-      })), /* @__PURE__ */ import_react8.default.createElement("div", {
+      })), /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.sectionHeaderContainer
-      }, /* @__PURE__ */ import_react8.default.createElement("div", {
+      }, /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.recommendationsLabel,
         style: { marginLeft: "20px", marginBottom: "0px" }
-      }, "Song Statistics"), /* @__PURE__ */ import_react8.default.createElement("div", {
+      }, "Song Statistics"), /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.settingsIconContainer,
         style: { marginLeft: "auto", marginRight: "0px" },
         onClick: () => this.setState({ modalIsOpen: true })
-      }, /* @__PURE__ */ import_react8.default.createElement("img", {
+      }, /* @__PURE__ */ import_react9.default.createElement("img", {
         src: "https://img.icons8.com/?size=100&id=9403&format=png&color=FFFFFF",
         style: {
           width: "25px",
@@ -3151,10 +3196,11 @@ var Enhancify = (() => {
           marginTop: "auto",
           marginBottom: "auto"
         }
-      })), /* @__PURE__ */ import_react8.default.createElement("div", {
+      })), /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.settingsIconContainer,
+        style: { marginRight: "0px" },
         onClick: () => this.setSettingsModalIsOpen(true)
-      }, /* @__PURE__ */ import_react8.default.createElement("img", {
+      }, /* @__PURE__ */ import_react9.default.createElement("img", {
         src: "https://img.icons8.com/?size=100&id=2969&format=png&color=FFFFFF",
         style: {
           width: "25px",
@@ -3162,10 +3208,21 @@ var Enhancify = (() => {
           marginTop: "auto",
           marginBottom: "auto"
         }
-      }))), /* @__PURE__ */ import_react8.default.createElement("div", {
+      })), /* @__PURE__ */ import_react9.default.createElement("div", {
+        className: app_module_default.settingsIconContainer,
+        onClick: () => this.setHelpModalIsOpen(true)
+      }, /* @__PURE__ */ import_react9.default.createElement("img", {
+        src: "https://img.icons8.com/?size=100&id=2908&format=png&color=FFFFFF",
+        style: {
+          width: "25px",
+          height: "25px",
+          marginTop: "auto",
+          marginBottom: "auto"
+        }
+      }))), /* @__PURE__ */ import_react9.default.createElement("div", {
         className: app_module_default.statsBlock
       }, this.state.songMetrics.map((songMetric, i) => {
-        return /* @__PURE__ */ import_react8.default.createElement(SongMetric_default, {
+        return /* @__PURE__ */ import_react9.default.createElement(SongMetric_default, {
           title: songMetric.title,
           floatValue: songMetric.floatValue,
           label: songMetric.label,
@@ -3173,43 +3230,50 @@ var Enhancify = (() => {
           selectMetric: this.selectMetric,
           isMetricSelected: songMetric.title in this.state.selectedMetrics
         });
-      })), /* @__PURE__ */ import_react8.default.createElement("div", null), /* @__PURE__ */ import_react8.default.createElement(import_react_modal.default, {
+      })), /* @__PURE__ */ import_react9.default.createElement("div", null), /* @__PURE__ */ import_react9.default.createElement(import_react_modal.default, {
         className: app_module_default.modal,
         isOpen: this.state.modalIsOpen,
         onRequestClose: () => this.setModalIsOpen(false),
         style: this.recommendationsModalStyles
-      }, /* @__PURE__ */ import_react8.default.createElement(RecommendationsModal_default, {
+      }, /* @__PURE__ */ import_react9.default.createElement(RecommendationsModal_default, {
         setModalIsOpen: this.setModalIsOpen,
         songURI: this.state.songURI,
         selectedMetrics: this.state.selectedMetrics
-      })), /* @__PURE__ */ import_react8.default.createElement(import_react_modal.default, {
+      })), /* @__PURE__ */ import_react9.default.createElement(import_react_modal.default, {
         className: app_module_default.modal,
         isOpen: this.state.settingsModalIsOpen,
         onRequestClose: () => this.setSettingsModalIsOpen(false),
         style: this.modalStyles
-      }, /* @__PURE__ */ import_react8.default.createElement(SettingsModal_default, {
+      }, /* @__PURE__ */ import_react9.default.createElement(SettingsModal_default, {
         changeRecTarget: this.changeRecTarget,
         toggleMetric: this.toggleMetric,
         recTarget: this.state.recTarget,
         metricsToDisplay: this.state.metricsToDisplay,
         setModalIsOpen: this.setSettingsModalIsOpen
+      })), /* @__PURE__ */ import_react9.default.createElement(import_react_modal.default, {
+        className: app_module_default.modal,
+        isOpen: this.state.helpModalIsOpen,
+        onRequestClose: () => this.setHelpModalIsOpen(false),
+        style: this.modalStyles
+      }, /* @__PURE__ */ import_react9.default.createElement(HelpModal_default, {
+        setModalIsOpen: this.setHelpModalIsOpen
       })));
     }
   };
   var NowPlaying_default = NowPlaying;
 
   // src/app.tsx
-  var App = class extends import_react9.default.Component {
+  var App = class extends import_react10.default.Component {
     render() {
-      return /* @__PURE__ */ import_react9.default.createElement(import_react9.default.Fragment, null, /* @__PURE__ */ import_react9.default.createElement(NowPlaying_default, null));
+      return /* @__PURE__ */ import_react10.default.createElement(import_react10.default.Fragment, null, /* @__PURE__ */ import_react10.default.createElement(NowPlaying_default, null));
     }
   };
   var app_default = App;
 
   // ../../../Temp/spicetify-creator/index.jsx
-  var import_react10 = __toESM(require_react());
+  var import_react11 = __toESM(require_react());
   function render() {
-    return /* @__PURE__ */ import_react10.default.createElement(app_default, null);
+    return /* @__PURE__ */ import_react11.default.createElement(app_default, null);
   }
   return __toCommonJS(spicetify_creator_exports);
 })();
