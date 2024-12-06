@@ -189,7 +189,20 @@ if (Test-Path $path) {
 }
 
 New-Item -Path $path -ItemType Directory
-Move-Item -Path * -Destination $path
+
+$zipPath = ".\EnhancifyInstall.zip"
+if (Test-Path $zipPath) {
+  Remove-Item $zipPath -Force -Recurse
+}
+
+$latestReleaseUrl = (Invoke-RestMethod -Uri "https://api.github.com/repos/ECE49595-Team-6/EnhancifyInstall/releases/latest").assets.browser_download_url[0]
+Invoke-WebRequest -Uri $latestReleaseUrl -OutFile $zipPath
+
+Expand-Archive -Path $zipPath -DestinationPath ".\EnhancifyInstall" -Force
+Move-Item -Path ".\EnhancifyInstall\*" -Destination $path
+
+Remove-Item ".\EnhancifyInstall" -Force -Recurse
+Remove-Item $zipPath -Force -Recurse
 
 spicetify config custom_apps Enhancify
 spicetify apply
